@@ -1,3 +1,0 @@
-when we declare the variable with let and const without its proper initialization, the variable lies in temporal dead zone, until its proper initialization
-almost everything in js is an object
-string literance
